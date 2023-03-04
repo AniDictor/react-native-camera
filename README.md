@@ -11,9 +11,9 @@ You can support the development of VisionCamera by [sponsoring **@mrousavy** on 
 
 <br />
 <br />
-///Один.2
-///Два.2
-///Три.2
+//Один.2
+//Два.2
+//Три.2
 
 > You can find the old code of react-native-camera [here](https://github.com/react-native-camera/react-native-camera/tree/master).
 
